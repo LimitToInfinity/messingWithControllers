@@ -1,0 +1,2 @@
+module ShowcaseControllerHelper
+end
